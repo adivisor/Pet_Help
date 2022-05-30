@@ -1,8 +1,8 @@
 import os
 import cv2
 import numpy as np
-# from picamera.array import PiRGBArray
-# from picamera import PiCamera
+from picamera.array import PiRGBArray
+from picamera import PiCamera
 import tensorflow as tf
 import argparse
 import sys
